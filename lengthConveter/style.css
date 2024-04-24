@@ -15,14 +15,16 @@ h2{
     color:#ffeba7;
     letter-spacing: 1px;
 }
-input{
+select{
     border-radius: 5px;
     border: 2px solid black ;
     margin-top:30px;
-    height:2em;
+    height:2.5em;
     width:250px;
     padding-left:10px;
+    
 }
+
 
 input:active{
     border:none;
